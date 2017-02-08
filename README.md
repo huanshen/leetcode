@@ -17,10 +17,10 @@ The minimum depth is the number of nodes along the shortest path from the root n
  * @return {number}
  */
 
-var minDepth = function(root) {  
+ var minDepth = function(root) {  
      if (!root) return 0  
-    var L = minDepth(root.left), R = minDepth(root.right)  
-    return 1 + (Math.min(L, R) || Math.max(L, R))  
-};  
+     var L = minDepth(root.left), R = minDepth(root.right)  
+     return 1 + (Math.min(L, R) || Math.max(L, R))  
+ };  
 
 </code>
