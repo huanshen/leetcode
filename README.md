@@ -1,7 +1,7 @@
-#LeetCode JavaScript版本
+﻿#LeetCode JavaScript版本
 
 目前已经有答案的题目   
 1-3, 7, 13, 21, 26, 38, 50, 111, 205-206, 283, 389, 415, 434, 485, 492, 496, 504, 506;
 
-the fllowing questions hava answers: 
+the fllowing questions hava answers:    
 1-3, 7, 13, 21, 26, 38, 50, 111, 205-206, 283, 389, 415, 434, 485, 492, 496, 504, 506;
